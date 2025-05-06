@@ -2,7 +2,7 @@
 
 Mini rPlace is a small-scale r/place clone where you and your friends can paint pixels together in real time. It is built with FastAPI, Vue.js, and Redis, and can be easily set up and run with Docker.
 
-<img width="1" height="1" src=".preview/banner.png"> <!--For SEO IMG-->
+<img src="https://github.com/farukseker/Mini-R-Place/blob/main/.preview/banner.png" alt="Mini rPlace preview image" style="display:none;">
 
 [![Project Banner](.preview/banner_with_play_btn.png)](https://youtu.be/BSK8Dn7GpaQ)
 
